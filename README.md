@@ -1,1 +1,1 @@
-# Neural-Networks
+# Text Generation using LSTM
